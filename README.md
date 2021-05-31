@@ -4,4 +4,3 @@ For an extensive learning of the different classification models available, refe
 1) Zero-Shot Classifier: https://joeddav.github.io/blog/2020/05/29/ZSL.html
 2) Gensim Classification: https://www.tutorialspoint.com/gensim/index.htm
    GoogleNews-Vectors-negative-300: https://www.kaggle.com/leadbest/googlenewsvectorsnegative300
-3)
